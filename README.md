@@ -4,7 +4,7 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=AmirAlakbarli&style=flat-square&color=blue" alt=""></p>
 
-### :woman_technologist: &nbsp;About Me :
+### :man_technologist: &nbsp;About Me :
 
 I am a Full Stack MERN Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
