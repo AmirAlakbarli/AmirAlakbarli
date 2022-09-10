@@ -23,10 +23,10 @@ I am a Full Stack MERN Developer <img src="https://media.giphy.com/media/WUlplcM
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/768px-Bootstrap_logo.svg.png?20210507000024" title="Bootstrap5" alt="Bootstrap5" width="40" height="40"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"  title="React" alt="React" width="40" height="40"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png?20180308172936" title="Redux" alt="Redux" width="60" height="40"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" title="NodeJS" alt="NodeJS" width="100" height="50"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" title="ExpressJS" alt="ExpressJS" width="120" height="40"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" title="MongoDB" alt="MongoDB" width="90" height="50"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png?20180308172936" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" title="ExpressJS" alt="ExpressJS" width="40" height="40"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" title="C language" alt="C language" width="40" height="40"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
