@@ -10,7 +10,7 @@ I am a Full Stack MERN Developer <img src="https://media.giphy.com/media/WUlplcM
 
 - 🔭 I’m currently student on [Tech Academy Baku](https://github.com/TechAcademy-Azerbaijan)
 
-- 🌱 I’m currently learning **NodeJS, ExpressJS, MongoDB**
+- 🌱 I’m currently learning **Data Science, NodeJS**
 
 - 📫 How to reach me **emirelekberli@gmail.com**
 
