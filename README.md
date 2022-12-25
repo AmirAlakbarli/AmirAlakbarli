@@ -8,7 +8,9 @@
 
 I am a Full Stack MERN Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- 🔭 I’m currently student in [Code Academy](https://github.com/codeacademyprogramming)
+- 👨‍🏫 I'm Front-End Mentor at [Tech Academy](https://github.com/TechAcademy-Azerbaijan)
+
+- 🔭 I’m currently student at [Code Academy](https://github.com/codeacademyprogramming)
 
 - 🌱 I’m currently learning **Data Science**
 
