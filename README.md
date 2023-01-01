@@ -53,7 +53,7 @@ I am a Full Stack MERN Developer <img src="https://media.giphy.com/media/WUlplcM
 <br/>
 <br/>
 
-<a href="https://activity-graph.herokuapp.com/graph?username=AmirAlakbarli&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"><img alt="Amir Alakbarli's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AmirAlakbarli&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710&theme=github-compact"><img alt="Amir Alakbarli's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710&theme=github-compact" /></a>
 
 <br/>
 <br/>
