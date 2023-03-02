@@ -10,8 +10,6 @@ I am a Full Stack MERN Developer <img src="https://media.giphy.com/media/WUlplcM
 
 - 👨‍🏫 I'm Full-stack Javascript Mentor at [Tech Academy](https://github.com/TechAcademy-Azerbaijan)
 
-- 🔭 I’m currently student at [Code Academy](https://github.com/codeacademyprogramming)
-
 - 🌱 I’m currently learning **Machine Learning Engineering**
 
 - 📫 How to reach me **emirelekberli@gmail.com**
