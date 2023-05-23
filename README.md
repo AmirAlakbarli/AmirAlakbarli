@@ -8,7 +8,7 @@
 
 I am a Full Stack MERN Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- 👨‍🏫 I'm Full-stack Javascript Mentor at [Tech Academy](https://github.com/TechAcademy-Azerbaijan)
+- 👨‍🏫 I'm a Data Science mentor at [Tech Academy](https://github.com/TechAcademy-Azerbaijan)
 
 - 🌱 I’m currently learning **Machine Learning Engineering**
 
