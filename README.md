@@ -61,7 +61,7 @@ I am a Full Stack MERN Developer <img src="https://media.giphy.com/media/WUlplcM
 
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/amir-alakbarli-486461133/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/amiralakbarli"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.facebook.com/amir.alakbarli">
 <img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
 
