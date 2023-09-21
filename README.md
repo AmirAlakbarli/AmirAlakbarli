@@ -6,9 +6,9 @@
 
 ### :man_technologist: &nbsp;About Me :
 
-I am a Full Stack MERN Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I am a Machine Learning Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- 👨‍🏫 I'm a Data Science mentor at [Tech Academy](https://github.com/TechAcademy-Azerbaijan)
+- 👨‍🏫 I'm a AI/Data Science at [Tech Academy](https://github.com/TechAcademy-Azerbaijan)
 
 - 🌱 I’m currently learning **Machine Learning Engineering**
 
