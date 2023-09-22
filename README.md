@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Amir</h1>
-<h3 align="center">I'm a Full Stack MERN developer</h3>
+<h3 align="center">I'm a Machine Learning Engineer</h3>
 <img width="100%" height="auto" src="https://github.com/halfrost/halfrost/raw/master/icons/header_.png" height="175px"/>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=AmirAlakbarli&style=flat-square&color=blue" alt=""></p>
