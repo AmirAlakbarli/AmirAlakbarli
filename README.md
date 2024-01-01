@@ -8,9 +8,9 @@
 
 I am a Machine Learning Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- 👨‍🏫 I'm a AI/Data Science mentor at [Tech Academy](https://github.com/TechAcademy-Azerbaijan)
+- 👨‍🏫 I'm a **Machine Learning Engineer**
 
-- 🌱 I’m currently learning **Computer Vision**
+- 🌱 I’m currently learning **NLP**
 
 - 📫 How to reach me **emirelekberli@gmail.com**
 
