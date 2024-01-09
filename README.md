@@ -8,7 +8,7 @@
 
 I am a Machine Learning Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- 👨‍🏫 I'm a **Machine Learning Engineer**
+- 👨‍🏫 I'm a **Machine Learning Engineer at ...**
 
 - 🌱 I’m currently learning **NLP**
 
