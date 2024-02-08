@@ -10,7 +10,7 @@ I am a Machine Learning Engineer <img src="https://media.giphy.com/media/WUlplcM
 
 - 👨‍🏫 I'm a **Machine Learning Engineer at ...**
 
-- 🌱 I’m currently learning **NLP**
+- 🌱 I’m currently learning **Computer Vision**
 
 - 📫 How to reach me **emirelekberli@gmail.com**
 
