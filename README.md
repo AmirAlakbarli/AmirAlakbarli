@@ -10,29 +10,17 @@ I am a Machine Learning Engineer <img src="https://media.giphy.com/media/WUlplcM
 
 - 👨‍🏫 I'm a **Machine Learning Engineer at Azercosmos**
 
-- 🌱 I’m currently learning **Computer Vision**
+- 🌱 I’m currently involved in **Computer Vision**
 
 - 📫 How to reach me **emirelekberli@gmail.com**
 
 ### 🚀 &nbsp;Languages and Tools :
 
 <p>
-<img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/48px-CSS3_logo.svg.png" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" title="SASS" alt="SASS" width="40" height="40"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/768px-Bootstrap_logo.svg.png?20210507000024" title="Bootstrap5" alt="Bootstrap5" width="40" height="40"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"  title="React" alt="React" width="40" height="40"/>&nbsp;
-<img src="https://www.svgrepo.com/show/303557/redux-logo.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
-<img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" title="ExpressJS" alt="ExpressJS" width="40" height="40"/>&nbsp;
-<img src="https://www.svgrepo.com/show/331488/mongodb.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" title="C language" alt="C language" width="40" height="40"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" title="C language" alt="C language" width="40" height="40"/>&nbsp;
+<img src="https://www.svgrepo.com/show/331488/mongodb.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
 </p>
 
 <p align="center">
@@ -62,7 +50,6 @@ I am a Machine Learning Engineer <img src="https://media.giphy.com/media/WUlplcM
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/amiralakbarli"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.facebook.com/amir.alakbarli">
-<img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
+<a href = "https://www.facebook.com/amir.alakbarli"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
 
 </p>
